@@ -1,6 +1,13 @@
 <!-- ===== BANNER ===== -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00FF00&height=200&section=header&text=Hack2You&fontColor=00FF00&fontSize=50&animation=fadeIn&desc=C%20%7C%20Hacker%20in%20Training&descSize=18&descAlignY=68" alt="banner" width="100%" />
+<!-- To use your own Gojo hacker image: replace the src link below with your image URL -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=Hack2You&fontColor=00ff00&fontSize=50&animation=fadeIn&desc=C%20%7C%20Hacker%20in%20Training&descSize=18&descAlignY=68" alt="banner" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=printf%28%22Hi+I%27m+Hack2You%22%29%3B;printf%28%22Learning+C+%26+Python...%22%29%3B;printf%28%22System+Access+Granted+%E2%9C%94%22%29%3B" alt="Typing SVG" />
+</div>
+
+---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=700&color=00FF00&center=true&vCenter=true&background=003300&width=550&lines=%3E+Hack2You;%3E+Learning+C+%26+Python...;%3E+System+Access+Granted+%E2%9C%94" alt="Typing SVG" />
 </div>
