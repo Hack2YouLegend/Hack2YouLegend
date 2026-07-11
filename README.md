@@ -1,11 +1,9 @@
-🌐 Socials:
-YouTube
+Hack2YouLegend/README.md
+🌐 Socials: YouTube
 
-💻 Tech Stack:
-C Python
+💻 Tech Stack: C Python
 
-📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username= Hack2YouLegend&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)
+📊 GitHub Stats: ![](https://github-readme-stats.shion.dev/api?username= Hack2YouLegend&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)
 
 ![](https://streak-stats.demolab.com/?user= Hack2YouLegend&theme=gruvbox_light&hide_border=false)
 
