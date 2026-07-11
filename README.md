@@ -115,3 +115,4 @@ struct Hacker {
 
 ⭐️ From [Hack2YouLegend](https://github.com/Hack2YouLegend)
 </div>
+<img src="https://raw.githubusercontent.com/Hack2YouLegend/Hack2YouLegend/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
