@@ -1,4 +1,9 @@
+<!-- ===== BANNER ===== -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00FF00&height=200&section=header&text=Hack2You&fontColor=00FF00&fontSize=50&animation=fadeIn&desc=C%20%7C%20Hacker%20in%20Training&descSize=18&descAlignY=68" alt="banner" width="100%" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=700&color=00FF00&center=true&vCenter=true&background=003300&width=550&lines=%3E+Hack2You;%3E+Learning+C+%26+Python...;%3E+System+Access+Granted+%E2%9C%94" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -110,24 +115,3 @@ struct Hacker {
 
 ⭐️ From [Hack2YouLegend](https://github.com/Hack2YouLegend)
 </div>
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Hack2YouLegend
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
