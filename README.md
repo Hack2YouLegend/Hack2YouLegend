@@ -165,5 +165,3 @@ struct Hacker {
 </div>
 
 <br>
-
-## 📂 Project Structure
