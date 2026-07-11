@@ -129,13 +129,7 @@ struct Hacker {
 
 </div>
 
-<br>
 
-## 📡 About
-
-`HACK2YOU` is a lightweight, fast command-line tool written in pure C. Replace this line with a real description of what it actually does — the more specific, the better the README lands.
-
-<br>
 
 ## 🟢 Features
 
@@ -144,17 +138,7 @@ struct Hacker {
 - 🌐 Cross-platform (Linux / macOS)
 - 🧩 Simple, readable codebase
 
-<br>
 
-## 🔵 Installation
-
-\`\`\`bash
-git clone https://github.com/yourusername/hack2you.git
-cd hack2you
-make
-\`\`\`
-
-<br>
 
 ## 💻 Usage
 
