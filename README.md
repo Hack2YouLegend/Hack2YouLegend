@@ -1,16 +1,14 @@
-## Hi there 👋
+🌐 Socials:
+YouTube
 
-<!--
-**Hack2YouLegend/Hack2YouLegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack:
+C Python
 
-Here are some ideas to get you started:
+📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username= Hack2YouLegend&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://streak-stats.demolab.com/?user= Hack2YouLegend&theme=gruvbox_light&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username= Hack2YouLegend&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://komarev.com/ghpvc/?username= Hack2YouLegend&icon=0&color=0)
