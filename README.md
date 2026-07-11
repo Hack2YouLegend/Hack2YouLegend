@@ -8,7 +8,6 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=700&color=00FF00&center=true&vCenter=true&background=003300&width=550&lines=%3E+Hack2You;%3E+Learning+C+%26+Python...;%3E+System+Access+Granted+%E2%9C%94" alt="Typing SVG" />
 </div>
 
 ---
