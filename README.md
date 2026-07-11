@@ -116,7 +116,7 @@ struct Hacker {
 ⭐️ From [Hack2YouLegend](https://github.com/Hack2YouLegend)
 </div>
 <img src="https://raw.githubusercontent.com/Hack2YouLegend/Hack2YouLegend/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-### ⚡ A C-powered command-line tool ⚡
+
 
 [![Language](https://img.shields.io/badge/Language-C-00ff41?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Build](https://img.shields.io/badge/Build-Passing-00d9ff?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0d1117)](#)
