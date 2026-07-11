@@ -1,6 +1,5 @@
 <!-- ===== BANNER ===== -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00FF00&height=200&section=header&text=Hack2You&fontColor=00FF00&fontSize=50&animation=fadeIn&desc=C%20%7C%20Hacker%20in%20Training&descSize=18&descAlignY=68" alt="banner" width="100%" />
+
 <!-- To use your own Gojo hacker image: replace the src link below with your image URL -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=Hack2You&fontColor=00ff00&fontSize=50&animation=fadeIn&desc=C%20%7C%20Hacker%20in%20Training&descSize=18&descAlignY=68" alt="banner" width="100%" />
