@@ -53,12 +53,8 @@ struct Hacker {
 </div>
 # 🚀 My LeetCode Journey
 
-Welcome to my LeetCode profile! This repository showcases my journey of solving Data Structures & Algorithms problems on LeetCode.
-
-## 🔗 LeetCode Profile
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](Hack2You)
-
-**Profile Link:** [Click here to view my LeetCode profile](Hack2You)
+## 👤 LeetCode Username
+**Username:** `Hack2You`
 
 ## 📊 Stats
 
@@ -68,6 +64,23 @@ Welcome to my LeetCode profile! This repository showcases my journey of solving 
 | Easy | 0 |
 | Medium | 0 |
 | Hard | 0 |
+
+## 📁 About This Repository
+
+This repo contains my solutions to various LeetCode problems, organized by difficulty and topic.
+
+## 🛠️ Topics Covered
+- Arrays & Strings
+- Linked Lists
+- Trees & Graphs
+- Dynamic Programming
+- Sorting & Searching
+
+## 📈 Progress
+I update this repository regularly as I solve new problems.
+
+---
+⭐ Feel free to star this repo if you find it helpful!
 
 ## 📁 About This Repository
 
