@@ -56,9 +56,9 @@ struct Hacker {
 Welcome to my LeetCode profile! This repository showcases my journey of solving Data Structures & Algorithms problems on LeetCode.
 
 ## 🔗 LeetCode Profile
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE_LINK_HERE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](Hack2You)
 
-**Profile Link:** [Click here to view my LeetCode profile](YOUR_LEETCODE_LINK_HERE)
+**Profile Link:** [Click here to view my LeetCode profile](Hack2You)
 
 ## 📊 Stats
 
