@@ -53,17 +53,27 @@ struct Hacker {
 </div>
 # 🚀 My LeetCode Journey
 
-## 👤 LeetCode Username
-**Username:** `Hack2You`
+## 👤 LeetCode Profile
+[your_username_here](https://leetcode.com/u/Hack2You/)
 
-## 📊 Stats
 
-| Metric | Count |
-|--------|-------|
-| Problems Solved | 0 |
-| Easy | 0 |
-| Medium | 0 |
-| Hard | 0 |
+
+## 📁 About This Repository
+
+This repo contains my solutions to various LeetCode problems, organized by difficulty and topic.
+
+## 🛠️ Topics Covered
+- Arrays & Strings
+- Linked Lists
+- Trees & Graphs
+- Dynamic Programming
+- Sorting & Searching
+
+## 📈 Progress
+I update this repository regularly as I solve new problems.
+
+---
+⭐ Feel free to star this repo if you find it helpful!
 
 ## 📁 About This Repository
 
