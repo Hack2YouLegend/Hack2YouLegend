@@ -165,3 +165,34 @@ struct Hacker {
 </div>
 
 <br>
+name: Generate Snake Animation
+ 
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs every day at midnight UTC
+  workflow_dispatch:      # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main              # regenerate whenever you push to main
+ 
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake game from contribution grid
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Hack2YouLegend
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+ 
+      - name: Push snake output to the "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
