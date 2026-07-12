@@ -51,6 +51,41 @@ struct Hacker {
 ![Linux](https://img.shields.io/badge/Linux-001133?style=for-the-badge&logo=linux&logoColor=00BFFF)
 
 </div>
+# 🚀 My LeetCode Journey
+
+Welcome to my LeetCode profile! This repository showcases my journey of solving Data Structures & Algorithms problems on LeetCode.
+
+## 🔗 LeetCode Profile
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE_LINK_HERE)
+
+**Profile Link:** [Click here to view my LeetCode profile](YOUR_LEETCODE_LINK_HERE)
+
+## 📊 Stats
+
+| Metric | Count |
+|--------|-------|
+| Problems Solved | 0 |
+| Easy | 0 |
+| Medium | 0 |
+| Hard | 0 |
+
+## 📁 About This Repository
+
+This repo contains my solutions to various LeetCode problems, organized by difficulty and topic. I'm using this space to track my progress and improve my problem-solving skills.
+
+## 🛠️ Topics Covered
+- Arrays & Strings
+- Linked Lists
+- Trees & Graphs
+- Dynamic Programming
+- Sorting & Searching
+- (add more as you go)
+
+## 📈 Progress
+I update this repository regularly as I solve new problems. Check back often!
+
+---
+⭐ Feel free to star this repo if you find it helpful!
 
 ---
 
