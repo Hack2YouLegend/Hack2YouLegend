@@ -54,7 +54,7 @@ struct Hacker {
 # 🚀 My LeetCode Journey
 
 ## 👤 LeetCode Profile
-[your_username_here](https://leetcode.com/u/Hack2You/)
+(https://leetcode.com/u/Hack2You/)
 
 
 
