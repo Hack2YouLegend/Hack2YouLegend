@@ -45,7 +45,9 @@ struct Hacker {
 ![Python](https://img.shields.io/badge/Python-001133?style=for-the-badge&logo=python&logoColor=00BFFF)
 ![VS Code](https://img.shields.io/badge/VSCode-001133?style=for-the-badge&logo=visual-studio-code&logoColor=00FF00)
 ![GitHub](https://img.shields.io/badge/GitHub-001133?style=for-the-badge&logo=github&logoColor=00BFFF)
-![CodeChef](https://img.shields.io/badge/CodeChef-001133?style=for-the-badge&logo=codechef&logoColor=00FF00)
+## 🌐 Coding Profiles
+
+- CodeChef: https://www.codechef.com/users/hack2you
 ![Linux](https://img.shields.io/badge/Linux-001133?style=for-the-badge&logo=linux&logoColor=00BFFF)
 
 </div>
